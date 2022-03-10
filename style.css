@@ -1,0 +1,28 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+.Menu a{
+    color: blueviolet;
+    font-size: 17px;
+    background-color: pink;
+}
+
+.description,.ingre,.step {
+    color: salmon;
+
+}
+
+.description + p{
+    color: blueviolet;
+}
+
